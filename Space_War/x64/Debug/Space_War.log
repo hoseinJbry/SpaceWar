@@ -1,0 +1,16 @@
+﻿  Space_War.cpp
+D:\Vc\Projects\Space_War\Space_War\Space_War.cpp(143,5): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Vc\Projects\Space_War\Space_War\Space_War.cpp(167,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Vc\Projects\Space_War\Space_War\Space_War.cpp(167,22): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Vc\Projects\Space_War\Space_War\Space_War.cpp(196,5): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\Vc\Projects\Space_War\Space_War\Space_War.cpp(203,5): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\Vc\Projects\Space_War\Space_War\Space_War.cpp(207,5): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\Vc\Projects\Space_War\Space_War\Space_War.cpp(211,5): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\Vc\Projects\Space_War\Space_War\Space_War.cpp(215,5): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\Vc\Projects\Space_War\Space_War\Space_War.cpp(234,9): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\Vc\Projects\Space_War\Space_War\Space_War.cpp(248,9): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\Vc\Projects\Space_War\Space_War\Space_War.cpp(442,9): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\Vc\Projects\Space_War\Space_War\Space_War.cpp(488,10): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\Vc\Projects\Space_War\Space_War\Space_War.cpp(973,36): warning C4101: 'pe': unreferenced local variable
+D:\Vc\Projects\Space_War\Space_War\Space_War.cpp(1064,28): warning C4101: 'pe': unreferenced local variable
+  Space_War.vcxproj -> D:\Vc\Projects\Space_War\x64\Debug\Space_War.exe
